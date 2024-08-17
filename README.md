@@ -1,6 +1,6 @@
 # Blog de Tecnologia
 
-Bem-vindo ao repositório do Blog de Tecnologia! Este é um site de blog desenvolvido com HTML e CSS, um pequeno projeto que fiz a alguns meses atrás, porém, só agora adicionado no git.
+Bem-vindo ao repositório do Blog de Tecnologia! Este é um site de blog desenvolvido com HTML e CSS, um pequeno projeto que fiz a alguns meses atrás(Exatamente na epoca que entrei no mundo da programação, meados de julho de 2023), porém, só agora adicionado no git.
 
 ## Descrição
 
