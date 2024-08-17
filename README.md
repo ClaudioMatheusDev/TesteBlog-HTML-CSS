@@ -11,17 +11,29 @@ O Blog de Tecnologia é uma plataforma onde você pode encontrar artigos e posta
 A estrutura básica do projeto é a seguinte:
 
 /blog-tecnologia
+
 │
+
 ├── /css
+
 │ ├── estilo.css
+
 │
+
 ├── /images
+
 │ ├── imagem1.jpg
+
 │ ├── imagem2.jpg
+
 │ ├── imagem3.jpg
+
 │ ├── imagem4.jpg
+
 │ ├── imagem5.jpg
+
 │
+
 ├── index.html
 
 ![image](https://github.com/user-attachments/assets/4704df18-db11-4fed-988c-1f7dbde70060)
